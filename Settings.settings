@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ClassLibraryPublish_Core" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NugetApiKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">oy2muvdb4zwxtafwyc7qjmr7swlau7dubm27vetlckoide</Value>
+    </Setting>
+    <Setting Name="NugetUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44398/nuget</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
